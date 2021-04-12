@@ -26,3 +26,4 @@ const another = new Circle(1);
 delete circle;
 
 console.log(circle);
+console.log('index.js running');
